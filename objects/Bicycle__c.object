@@ -156,7 +156,7 @@
     <fields>
         <fullName>Back_Order__c</fullName>
         <defaultValue>false</defaultValue>
-        <description>Changes for Story A</description>
+        <description>Changes for Story B</description>
         <externalId>false</externalId>
         <label>Back Order</label>
         <trackTrending>false</trackTrending>
