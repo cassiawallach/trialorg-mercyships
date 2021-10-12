@@ -156,7 +156,7 @@
     <fields>
         <fullName>Back_Order__c</fullName>
         <defaultValue>false</defaultValue>
-        <description>Story B was here</description>
+        <description>Mutation for Paul demo</description>
         <externalId>false</externalId>
         <label>Back Order</label>
         <trackTrending>false</trackTrending>
