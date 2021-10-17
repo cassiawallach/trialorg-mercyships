@@ -156,7 +156,7 @@
     <fields>
         <fullName>Back_Order__c</fullName>
         <defaultValue>false</defaultValue>
-        <description>Flag if the bike in on back order. Some additional information</description>
+        <description>Story A was here</description>
         <externalId>false</externalId>
         <label>Back Order</label>
         <trackTrending>false</trackTrending>
