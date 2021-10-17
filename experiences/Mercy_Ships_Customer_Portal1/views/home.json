@@ -1,0 +1,72 @@
+{
+  "appPageId" : "20842f08-7b28-4a56-848e-5ccc98c3efb1",
+  "componentName" : "siteforce:sldsTwoCol84SidebarFeaturedLayout",
+  "id" : "1cf4f2d1-a714-4ae4-877c-46cbc8fef296",
+  "label" : "Home",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "bannerText" : "A place where you can easily find solutions and ask questions",
+        "bannerTextWithKnowledge" : "Explore other <a href=\"javascript:void(0)\" class=\"headlineArticles\">articles</a> and <a href=\"javascript:void(0)\" class=\"headlineDiscussions\">discussions</a> on this topic.",
+        "bannerTextWithoutKnowledge" : "Explore other <a href=\"javascript:void(0)\" class=\"headlineDiscussions\">discussions</a> on this topic.",
+        "pageType" : "",
+        "showSubTopics" : true,
+        "title" : "Welcome!",
+        "uniqueNameOrId" : ""
+      },
+      "componentName" : "forceCommunity:headline",
+      "id" : "d9e10db8-83e7-4444-bc4b-efa37fcece6c",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "e022ddf1-c4dd-4440-ae82-4a0678d011a1",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "id" : "6d94c72a-34ab-4eeb-912b-715517844b44",
+    "regionName" : "featured",
+    "type" : "region"
+  }, {
+    "id" : "1c0b7747-8045-4552-867c-4ce5f91ab6ac",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "channel" : "DefaultChannel",
+        "title" : ""
+      },
+      "componentName" : "forceCommunity:recommendations",
+      "id" : "1d8f9ff6-61ad-4cbf-8fe0-030cb5f28695",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "d3018422-3357-4b29-bc2c-40c301e075ac",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "ed2fdae8-bb99-4086-9dbf-610c31a84255",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "customHeadTags" : "",
+        "description" : "",
+        "title" : "Home"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "30d4a592-9e89-4b01-b29e-848fb5bfa80d",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "647a490f-92c8-4b0a-9a39-21cd17680e6e",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Home",
+  "type" : "view",
+  "viewType" : "home"
+}
