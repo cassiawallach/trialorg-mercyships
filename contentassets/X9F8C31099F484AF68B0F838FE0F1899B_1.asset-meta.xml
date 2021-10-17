@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentAsset xmlns="http://soap.sforce.com/2006/04/metadata">
+    <isVisibleByExternalUsers>false</isVisibleByExternalUsers>
+    <language>en_US</language>
+    <masterLabel>X9F8C31099F484AF68B0F838FE0F1899B_1</masterLabel>
+    <originNetwork>MS PARTNER</originNetwork>
+    <relationships>
+        <network>
+            <access>VIEWER</access>
+            <name>MS PARTNER</name>
+        </network>
+        <workspace>
+            <access>INFERRED</access>
+            <isManagingWorkspace>true</isManagingWorkspace>
+            <name>sfdc_asset_company_assets</name>
+        </workspace>
+    </relationships>
+    <versions>
+        <version>
+            <number>1</number>
+            <pathOnClient>9F8C3109-9F48-4AF6-8B0F-838FE0F1899B_1_201_a.jpeg</pathOnClient>
+        </version>
+    </versions>
+</ContentAsset>
